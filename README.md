@@ -1,2 +1,3 @@
-# module-requests
-Need a module for Prismy? Ask it! :zap:
+# Module Requests for Prismy
+
+[Request a module for Prismy now!](https://github.com/prismyland/module-requests/issues/new)
